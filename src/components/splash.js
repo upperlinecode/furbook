@@ -1,7 +1,7 @@
 import React from 'react';
 import './css/splash.css';
 
-const Splash = ()=> {
+const Splash = () => {
 	return(
 	<div className = 'Splash'>
 		<h1 className = 'primary text'>Furbook</h1>
