@@ -13,5 +13,5 @@ Happy teaching!
 3. `npm install`
 4. `npm start`
 5. To view the live app, you may need to:
-  1. tap the `CS50 IDE` link in the header
-  2. Choose `Web Server`
+    1. tap the `CS50 IDE` link in the header
+    2. Choose `Web Server`
