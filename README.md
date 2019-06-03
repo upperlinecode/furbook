@@ -6,7 +6,7 @@ If you are using this for the NYC React Series, clone this repository before the
 
 Happy teaching!
 
-### Getting Started in CS50
+## Getting Started in CS50
 
 1. Clone this repository using `git clone`
 2. `cd` into the `pet-book` folder
