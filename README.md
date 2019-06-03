@@ -12,7 +12,7 @@ Happy teaching!
 2. `cd` into the `pet-book` folder
 3. `npm install`
 4. `npm start`
-5. If the Terminal lists non-fatal errors, to view the live app:
+5. If the app compiles with errors, to view the live app:
     1. tap the `CS50 IDE` link in the header
     2. Choose `Web Server`
-6. If the Terminal lists any fatal errors, re-clone the repository
+6. If the app fails to compile, re-clone the repository
