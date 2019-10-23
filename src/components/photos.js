@@ -7,16 +7,16 @@ import './css/photos.css';
 
 const Photos = () => {
 	return(
-		<div className = 'container-fluid Photos'>
-			<div className = 'row'>
-				<div className = 'col'>
-					<img src = { cat } />
+		<div className='container-fluid Photos'>
+			<div className='row'>
+				<div className='col'>
+					<img src={ cat } alt="cat"/>
 				</div>
-				<div className = 'col'>
-					<img src = { dog2 } />
+				<div className='col'>
+					<img src={ dog2 } alt="small dog"/>
 				</div>
-				<div className = 'col'>
-					<img src = { dog1 } />
+				<div className='col'>
+					<img src={ dog1 } alt="large dog"/>
 				</div>
 			</div>
 		</div>

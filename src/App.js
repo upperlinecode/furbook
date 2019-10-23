@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Navbar from './components/navbar.js';
 import Splash from './components/splash.js';
 import Photos from './components/photos.js';
