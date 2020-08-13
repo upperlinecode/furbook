@@ -1,7 +1,7 @@
 import React from 'react';
 import './css/descriptions.css';
 
-const Descriptions = () => {
+function Descriptions() {
 	return(
 		<div className = 'container-fluid Descriptions'>
 			<div className = 'row'>
@@ -23,7 +23,7 @@ const Descriptions = () => {
 			</div>
 		</div>
 	);
-};
+}
 
 
 export default Descriptions;

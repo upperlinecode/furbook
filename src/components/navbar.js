@@ -1,7 +1,7 @@
 import React from 'react';
 import './css/navbar.css';
 
-const Navbar = () => {
+function Navbar() {
 	return(
 		<nav className="navbar navbar-expand-lg navbar-light bg-light">
 		  <a className="navbar-brand" href="/">Furbook</a>
@@ -27,7 +27,7 @@ const Navbar = () => {
 			</form>
 		  </div>
 		</nav>
-	)
+	);
 }
 
 export default Navbar

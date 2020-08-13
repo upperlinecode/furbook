@@ -5,7 +5,7 @@ import dog2 from './images/dog2.jpg';
 import './css/photos.css';
 
 
-const Photos = () => {
+function Photos() {
 	return(
 		<div className='container-fluid Photos'>
 			<div className='row'>
@@ -21,6 +21,6 @@ const Photos = () => {
 			</div>
 		</div>
 	);
-};
+}
 
 export default Photos;
